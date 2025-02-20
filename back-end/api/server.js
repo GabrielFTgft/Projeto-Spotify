@@ -11,7 +11,7 @@ const PORT = 3001;
 app.use(cors());
 
 app.get("/api/", (req, res) => {
-    res.send("Hello World!");
+    res.send("API running!");
 });
 
 app.get("/api/artists", async (req, res) => {
