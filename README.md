@@ -4,9 +4,10 @@ Este é um projeto full stack inspirado no Spotify.
 
 ## Tecnologias Utilizadas
 
-- **React**
+- **React (HTML e CSS)**
 - **Node.js**
 - **MongoDB Atlas**
+- **Render**
 
 ## Funcionalidades
 
@@ -15,3 +16,7 @@ Este é um projeto full stack inspirado no Spotify.
 - Tela do artista com suas músicas
 - Tela da música
 - Reprodução das músicas (⏮️▶️⏸️⏭️)
+
+## Deploy
+
+Deploy com o Render em [Projeto Spotify](https://projeto-spotify-9slh.onrender.com)
